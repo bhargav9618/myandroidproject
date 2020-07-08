@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "60622148933",
+    "firebase_url": "https://amritapuri-auto-service-app.firebaseio.com",
+    "project_id": "amritapuri-auto-service-app",
+    "storage_bucket": "amritapuri-auto-service-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60622148933:android:431cc94b3aa5d716931a2c",
+        "android_client_info": {
+          "package_name": "com.example.amritapuriautoserviceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60622148933-rsg8jgc7318e78658t6jb304jvitph6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amritapuriautoserviceapp",
+            "certificate_hash": "7c2225239cb656afbbed9c7a169dd273c660ed97"
+          }
+        },
+        {
+          "client_id": "60622148933-tr8217m5focgsmr3pg4110qnunlqe79b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOIhcraAbAihWgeeyT43oOnV_R72d-rvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60622148933-tr8217m5focgsmr3pg4110qnunlqe79b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

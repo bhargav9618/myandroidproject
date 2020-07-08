@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Amritapuri Auto Service App</string>
+    <string name="amritapuri_auto_service_app">Amritapuri Auto Service App</string>
+    <string name="_3_wheeler">3 wheeler</string>
+    <string name="_4_wheeler">4 wheeler</string>
+    <string name="resume">resume</string>
+    <string name="chiru_naga_satish">Chiru Naga Satish</string>
+    <string name="btech_computer_science">Btech, Computer Science</string>
+    <string name="amrita_vishwa_vidyapeetham">Amrita Vishwa Vidyapeetham</string>
+    <string name="c">C</string>
+    <string name="cpp">Cpp</string>
+    <string name="java">Java</string>
+    <string name="python">Python</string>
+    <string name="haskell">Haskell</string>
+    <string name="html">HTML</string>
+    <string name="xml">XML</string>
+    <string name="css">CSS</string>
+    <string name="javascript">JavaScript</string>
+    <string name="jsp">JSP</string>
+    <string name="perl">Perl</string>
+    <string name="cS">C#</string>
+    <string name="php">PHP</string>
+    <string name="r">R</string>
+    <string name="pony">pony</string>
+    <string name="technical_skills">Technical Skills</string>
+    <string name="profilepicture">profilepicture</string>
+    <string name="toggle_theme">Toggle theme</string>
+</resources>
